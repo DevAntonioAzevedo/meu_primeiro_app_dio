@@ -17,4 +17,4 @@ E-mail: antonio_azevedo@hotmail.com.br
 
 ## Telas em 04 idiomas do Aplicativo:
 
-![Telas](https://github.com/DevAntonioAzevedo/meu_primeiro_app_dio/assets/135359653/341a2d20-3ce0-40e3-8292-403255edc8b5)
+![Telas](https://github.com/DevAntonioAzevedo/meu_primeiro_app_dio/assets/135359653/9c01a646-1baa-4003-8bb8-3a6fe8fa532d)
